@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Winarjo
+    given-names: Maxi Aditya Kusuma
+    affiliation: Calvin Institute of Technology
+title: Ornitophile API
+version: 1.0.0
+date-released: 2025-06-16
+license: Custom - Academic Non-Commercial License
