@@ -1,6 +1,6 @@
 # 🦜 Ornithophile
 
-A lightweight RESTful API serving detailed information on **11,290 bird species** — including taxonomy, conservation status, sounds, and image links. Perfect for bird watchers, nature apps, educational platforms, and biodiversity research projects.
+A lightweight REST API serving detailed information on **11,290 bird species** — including taxonomy, conservation status, sounds, and image links. Perfect for bird watchers, nature apps, educational platforms, and biodiversity research projects.
 
 ---
 
